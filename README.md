@@ -31,7 +31,8 @@ ghar-ai/
 ## Run it
 
 ```bash
-cd ghar-ai
+git clone https://github.com/rishithagona28/Ghar-Ai--The-house-price-prediction-website.git
+cd Ghar-Ai--The-house-price-prediction-website
 python -m venv .venv
 .venv\Scripts\activate            # Windows  (macOS/Linux: source .venv/bin/activate)
 pip install -r requirements.txt
