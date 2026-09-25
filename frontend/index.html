@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GharAI · Homes & fair prices across India</title>
+  <meta name="description" content="Search 23,000+ real listings across India and see an AI-estimated fair price for every home." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="/static/styles.css?v=3" />
+  <link rel="stylesheet" href="/static/features.css?v=3" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23155EEF'/%3E%3Cpath d='M16 7 6 15h3v10h5v-6h4v6h5V15h3z' fill='white'/%3E%3C/svg%3E" />
+</head>
+<body>
+  <header class="topbar">
+    <a href="#/" class="brand">
+      <span class="logo"><svg viewBox="0 0 32 32"><path d="M16 5 4 14.5h3.5V27h6v-7h5v7h6V14.5H28z" fill="currentColor"/></svg></span>
+      <span>Ghar<b>AI</b></span>
+    </a>
+    <nav class="nav">
+      <a href="#/search" data-nav="search">Buy</a>
+      <a href="#/estimate" data-nav="estimate">Price my home</a>
+      <a href="#/emi" data-nav="emi">EMI calculator</a>
+      <a href="#/insights" data-nav="insights">Market insights</a>
+      <a href="#/how-it-works" data-nav="how-it-works">How the AI works</a>
+      <a href="#/leads" data-nav="leads" class="nav-sellers">For sellers: Leads</a>
+    </nav>
+    <button class="menu-btn" aria-label="Menu" onclick="document.body.classList.toggle('nav-open')">☰</button>
+  </header>
+
+  <main id="view"></main>
+
+  <div id="drawer" class="drawer" aria-hidden="true">
+    <div class="drawer-backdrop" data-close></div>
+    <aside class="drawer-panel" role="dialog" aria-modal="true">
+      <button class="drawer-close" data-close aria-label="Close">✕</button>
+      <div id="drawer-body"></div>
+    </aside>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <div id="modal" class="modal" aria-hidden="true">
+    <div class="modal-backdrop" data-mclose></div>
+    <div class="modal-panel" role="dialog" aria-modal="true">
+      <button class="drawer-close modal-x" data-mclose aria-label="Close">✕</button>
+      <div class="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- feature modules first; app.js (router) last because it references them -->
+  <script src="/static/photos.js?v=3"></script>
+  <script src="/static/emi.js?v=3"></script>
+  <script src="/static/contact.js?v=3"></script>
+  <script src="/static/app.js?v=3"></script>
+</body>
+</html>

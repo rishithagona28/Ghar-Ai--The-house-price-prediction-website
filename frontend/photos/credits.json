@@ -1,0 +1,348 @@
+{
+ "cities": {
+  "Bangalore": {
+   "src": "/static/photos/city-bangalore.jpg",
+   "title": "View from Visvesvaraya Industrial and Technological Museum (2025) 02",
+   "author": "Gpkp",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_from_Visvesvaraya_Industrial_and_Technological_Museum_(2025)_02.jpg"
+  },
+  "Mumbai": {
+   "src": "/static/photos/city-mumbai.jpg",
+   "title": "Mumbai Bandra-Worli Sea Link",
+   "author": "Rutiknatekar",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_Link.jpg"
+  },
+  "Pune": {
+   "src": "/static/photos/city-pune.jpg",
+   "title": "Pune West skyline - March 2017",
+   "author": "Ujjawal.Gayakwad",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pune_West_skyline_-_March_2017.jpg"
+  },
+  "Noida": {
+   "src": "/static/photos/city-noida.jpg",
+   "title": "HCL Tech Noida SEZ Campus",
+   "author": "Mohit Agarwal",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:HCL_Tech_Noida_SEZ_Campus.png"
+  },
+  "Kolkata": {
+   "src": "/static/photos/city-kolkata.jpg",
+   "title": "Kolkata maidan",
+   "author": "NalGup20",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kolkata_maidan.jpg"
+  },
+  "Chennai": {
+   "src": "/static/photos/city-chennai.jpg",
+   "title": "Chennai Central",
+   "author": "jamal haider from india",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chennai_Central.jpg"
+  },
+  "Ghaziabad": {
+   "src": "/static/photos/city-ghaziabad.jpg",
+   "title": "Indirapuram",
+   "author": "Mnstwr2418",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Indirapuram.jpg"
+  },
+  "Jaipur": {
+   "src": "/static/photos/city-jaipur.jpg",
+   "title": "East facade Hawa Mahal Jaipur from ground level (July 2022) - img 01",
+   "author": "Chainwit.",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg"
+  },
+  "Chandigarh": {
+   "src": "/static/photos/city-chandigarh.jpg",
+   "title": "Open Hand monument, Chandigarh",
+   "author": "Raakesh Blokhra",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Open_Hand_monument,_Chandigarh.jpg"
+  },
+  "Faridabad": {
+   "src": "/static/photos/city-faridabad.jpg",
+   "title": "Vatika Business Towers Faridabad",
+   "author": "Batmaniacs",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Vatika_Business_Towers_Faridabad.png"
+  },
+  "Mohali": {
+   "src": "/static/photos/city-mohali.jpg",
+   "title": "View of Chandigarh International Airport road ,Mohali in spring season 08 (cropped)",
+   "author": "Harvinder Chandigarh",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_Chandigarh_International_Airport_road_,Mohali_in_spring_season_08_(cropped).jpg"
+  },
+  "Vadodara": {
+   "src": "/static/photos/city-vadodara.jpg",
+   "title": "LakshmiVilas Palace",
+   "author": "Sharadsy",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:LakshmiVilas_Palace.jpg"
+  },
+  "Gurgaon": {
+   "src": "/static/photos/city-gurgaon.jpg",
+   "title": "Cyber City View",
+   "author": "Tarun4u",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cyber_City_View.jpg"
+  },
+  "Surat": {
+   "src": "/static/photos/city-surat.jpg",
+   "title": "Bharthana Althan area",
+   "author": "Rahul Bhadane",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bharthana_Althan_area.jpg"
+  },
+  "Nagpur": {
+   "src": "/static/photos/city-nagpur.jpg",
+   "title": "Deekshabhoomi Nagpur",
+   "author": "Kawade Sahil",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Deekshabhoomi_Nagpur.jpg"
+  },
+  "Lucknow": {
+   "src": "/static/photos/city-lucknow.jpg",
+   "title": "Harzratganj Market, Lucknow",
+   "author": "Mohit",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Harzratganj_Market,_Lucknow.jpg"
+  },
+  "Bhubaneswar": {
+   "src": "/static/photos/city-bhubaneswar.jpg",
+   "title": "Bhubaneswar skyline 121224",
+   "author": "Ashok3932",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhubaneswar_skyline_121224.jpg"
+  },
+  "Indore": {
+   "src": "/static/photos/city-indore.jpg",
+   "title": "Indore Rajwada01",
+   "author": "DeepakNigam",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Indore_Rajwada01.jpg"
+  },
+  "Kochi": {
+   "src": "/static/photos/city-kochi.jpg",
+   "title": "Kochi Skyline",
+   "author": "Fsquares (The Ibrahims)",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kochi_Skyline.jpg"
+  },
+  "Bhopal": {
+   "src": "/static/photos/city-bhopal.jpg",
+   "title": "Deewali New market",
+   "author": "Deepak sankat",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Deewali_New_market.jpg"
+  },
+  "Visakhapatnam": {
+   "src": "/static/photos/city-visakhapatnam.jpg",
+   "title": "What is Shipyard",
+   "author": "Rams1966",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:What_is_Shipyard.jpg"
+  },
+  "Coimbatore": {
+   "src": "/static/photos/city-coimbatore.jpg",
+   "title": "CHIL SEZ",
+   "author": "Ramprasad014",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:CHIL_SEZ.jpg"
+  },
+  "Hyderabad": {
+   "src": "/static/photos/city-hyderabad.jpg",
+   "title": "Aerial view of Durgam cheruvu and Hitech CIty",
+   "author": "iMahesh",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Durgam_cheruvu_and_Hitech_CIty.jpg"
+  },
+  "Ahmedabad": {
+   "src": "/static/photos/city-ahmedabad.jpg",
+   "title": "Sabarmati riverside",
+   "author": "Tarun802",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sabarmati_riverside.jpg"
+  },
+  "Maharashtra": {
+   "src": "/static/photos/city-maharashtra.jpg",
+   "title": "Cave 26, Ajanta",
+   "author": "Dey.sandip",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cave_26,_Ajanta.jpg"
+  }
+ },
+ "exterior": [
+  {
+   "src": "/static/photos/exterior-1.jpg",
+   "title": "Ganesh Apartment, Kasba Peth, Pune",
+   "author": "DesiBoy101",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ganesh_Apartment,_Kasba_Peth,_Pune.jpg"
+  },
+  {
+   "src": "/static/photos/exterior-2.jpg",
+   "title": "Pune Skyline 2018",
+   "author": "Akshit 77",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pune_Skyline_2018.jpg"
+  },
+  {
+   "src": "/static/photos/exterior-3.jpg",
+   "title": "A View of Residential Complex at Hydershakote",
+   "author": "Adityamadhav83",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_View_of_Residential_Complex_at_Hydershakote.jpg"
+  },
+  {
+   "src": "/static/photos/exterior-4.jpg",
+   "title": "New Residential Complex at Hydershakote",
+   "author": "Adityamadhav83",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Residential_Complex_at_Hydershakote.JPG"
+  },
+  {
+   "src": "/static/photos/exterior-5.jpg",
+   "title": "Rajapushpa Provincia and My Home Avatar complexes - High-rise residential skyline in Hyderabad",
+   "author": "iMahesh",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rajapushpa_Provincia_and_My_Home_Avatar_complexes_-_High-rise_residential_skyline_in_Hyderabad.jpg"
+  },
+  {
+   "src": "/static/photos/exterior-6.jpg",
+   "title": "An apartment in OMR",
+   "author": "Joel Samuel Raj",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:An_apartment_in_OMR.jpg"
+  },
+  {
+   "src": "/static/photos/exterior-7.jpg",
+   "title": "Magarpatta Residential Zone",
+   "author": "Samreenshaikh",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Magarpatta_Residential_Zone.JPG"
+  },
+  {
+   "src": "/static/photos/exterior-8.jpg",
+   "title": "A residential apartment in Hitec City, Hyderabad",
+   "author": "Nikhil B",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_residential_apartment_in_Hitec_City,_Hyderabad.jpg"
+  },
+  {
+   "src": "/static/photos/exterior-9.jpg",
+   "title": "Chandni chowk pune (2)",
+   "author": "Tehniyatshaikh",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chandni_chowk_pune_(2).jpg"
+  }
+ ],
+ "living": [
+  {
+   "src": "/static/photos/living-1.jpg",
+   "title": "Living room (Unsplash)",
+   "author": "Jarosław Ceborski jarson",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Living_room_(Unsplash).jpg"
+  },
+  {
+   "src": "/static/photos/living-2.jpg",
+   "title": "Modern living room with large windows showing view of trees and lake in daylight",
+   "author": "Shixart1985",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Modern_living_room_with_large_windows_showing_view_of_trees_and_lake_in_daylight.jpg"
+  },
+  {
+   "src": "/static/photos/living-3.jpg",
+   "title": "Modern living room with stylish furniture and a view of the outdoors in a cozy apartment setting",
+   "author": "Shixart1985",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Modern_living_room_with_stylish_furniture_and_a_view_of_the_outdoors_in_a_cozy_apartment_setting.jpg"
+  },
+  {
+   "src": "/static/photos/living-4.jpg",
+   "title": "Artchapiz1 artchapiz.es apartment rental granada 01",
+   "author": "Artchapiz",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Artchapiz1_artchapiz.es_apartment_rental_granada_01.jpg"
+  },
+  {
+   "src": "/static/photos/living-5.jpg",
+   "title": "Budapest Apartment (Unsplash)",
+   "author": "Justin Schüler blacktakeover",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Budapest_Apartment_(Unsplash).jpg"
+  },
+  {
+   "src": "/static/photos/living-6.jpg",
+   "title": "Living room Germany 2006",
+   "author": "Reiner Kraft from Gilroy, USA",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Living_room_Germany_2006.jpg"
+  }
+ ],
+ "kitchen": [
+  {
+   "src": "/static/photos/kitchen-1.jpg",
+   "title": "A stylish living area features a modern kitchen, comfortable seating, and large windows allowing ample natural ligh",
+   "author": "Shixart1985",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_stylish_living_area_features_a_modern_kitchen,_comfortable_seating,_and_large_windows_allowing_ample_natural_ligh.jpg"
+  },
+  {
+   "src": "/static/photos/kitchen-2.jpg",
+   "title": "Modern dining area with stylish table and chairs in cozy interior design",
+   "author": "Shixart1985",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Modern_dining_area_with_stylish_table_and_chairs_in_cozy_interior_design.jpg"
+  },
+  {
+   "src": "/static/photos/kitchen-3.jpg",
+   "title": "Modern kitchen and dining area in a simple home setting showing light colors and minimal decor",
+   "author": "Shixart1985",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Modern_kitchen_and_dining_area_in_a_simple_home_setting_showing_light_colors_and_minimal_decor.jpg"
+  },
+  {
+   "src": "/static/photos/kitchen-4.jpg",
+   "title": "Modern kitchen and dining area with stylish furnishings and natural light in a contemporary home setting",
+   "author": "Shixart1985",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Modern_kitchen_and_dining_area_with_stylish_furnishings_and_natural_light_in_a_contemporary_home_setting.jpg"
+  },
+  {
+   "src": "/static/photos/kitchen-5.jpg",
+   "title": "Modern luxury living room with kitchen interior",
+   "author": "Shixart1985",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Modern_luxury_living_room_with_kitchen_interior.jpg"
+  }
+ ],
+ "bedroom": [
+  {
+   "src": "/static/photos/bedroom-1.jpg",
+   "title": "Balanced Modern Bedroom Design with Neutral Tones and Layered Lighting",
+   "author": "SPL Interiors1",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Balanced_Modern_Bedroom_Design_with_Neutral_Tones_and_Layered_Lighting.jpg"
+  },
+  {
+   "src": "/static/photos/bedroom-2.jpg",
+   "title": "Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos",
+   "author": "Basile Morin",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg"
+  },
+  {
+   "src": "/static/photos/bedroom-3.jpg",
+   "title": "Modern bedroom design in a stylish hotel room featuring geometric patterns and soft linens",
+   "author": "Shixart1985",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Modern_bedroom_design_in_a_stylish_hotel_room_featuring_geometric_patterns_and_soft_linens.jpg"
+  }
+ ]
+}

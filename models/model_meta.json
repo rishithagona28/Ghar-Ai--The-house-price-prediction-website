@@ -1,0 +1,42 @@
+{
+  "metrics": {
+    "Baseline: nearby ₹/sqft × area": {
+      "median_error_pct": 16.0,
+      "within_10pct": 34.6,
+      "within_20pct": 59.4,
+      "r2_log": 0.843
+    },
+    "Linear regression": {
+      "median_error_pct": 16.1,
+      "within_10pct": 33.8,
+      "within_20pct": 59.2,
+      "r2_log": 0.861
+    },
+    "LightGBM (gradient boosting)": {
+      "median_error_pct": 12.7,
+      "within_10pct": 41.8,
+      "within_20pct": 67.3,
+      "r2_log": 0.894
+    }
+  },
+  "range_coverage_pct": 81.2,
+  "n_listings": 23048,
+  "n_cities": 250,
+  "feature_importance_pct": {
+    "nbr_log_ppsf": 24.2,
+    "log_sqft": 23.9,
+    "sqft_per_bhk": 11.9,
+    "nbr_spread": 8.3,
+    "city": 6.7,
+    "lon": 5.9,
+    "lat": 5.8,
+    "nbr_dist_km": 5.6,
+    "bhk": 3.9,
+    "posted_by": 1.6,
+    "rera": 0.8,
+    "under_construction": 0.7,
+    "resale": 0.4,
+    "ready_to_move": 0.2,
+    "is_rk": 0.0
+  }
+}
